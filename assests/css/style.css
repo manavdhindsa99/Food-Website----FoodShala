@@ -1,0 +1,75 @@
+.landing {
+  background: url(../images/bg2.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.heroSection {
+  padding-top: 100px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#spcl {
+  align-content: center;
+  margin-left: 25%;
+}
+
+/* .navbar {
+    position: fixed; 
+    top: 0;
+    width: 100%; 
+  } */
+
+.navbar-brand {
+  font-family: cursive;
+}
+
+.heading {
+  color: white;
+  font-family: 'Playball', cursive;
+  font-size: 120px;
+  font-weight: 400;
+}
+
+.line {
+  background-color: white;
+}
+
+#part {
+  background: url(../images/blur-chef.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.addRestaurantheading {
+  padding-top: 25px;
+  color: white;
+  font-family: 'Playball', cursive;
+  font-size: 80px;
+  font-weight: 400;
+}
+
+#sideNav {
+  background-color: black;
+}
+
+#sideNav aside ul li a {
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
